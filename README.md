@@ -62,7 +62,7 @@
 
 YOLOv5 모델을 활용하여 사람과 동물 등 다양한 데이터셋을 딥러닝 학습시켜 실시간으로 마스크 착용 유무를 확인할 수 있는 커스텀 모델을 개발하는 프로젝트입니다.
 
-- **개발기간**: 2020.06.28 ~ 2020.12.12
+- **개발기간**: 2020.11.01 ~ 2020.12.12
 - [프로젝트 코드](https://colab.research.google.com/drive/1qtoBiMIDeLlIX9gqT-2c0GO9JZ-a-F-6?usp=sharing#scrollTo=LjWYlvVQmxL8)
 
 ## 🛠 기술 스택
