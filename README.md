@@ -47,8 +47,8 @@
   
 ## 🛠 기술 스택
 
-- **Language:** jQuery
-- **Skill:** HTML, CSS, MySQL
+- **Language:** php
+- **Skill:** HTML, CSS, Jquery, MySQL
 
 #### 프로젝트 상세 설명
 
