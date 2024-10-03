@@ -8,7 +8,7 @@
 
 - **개발기간:** 2022.03.31 - 2022.08.30
 - **나의 역할:** 조장으로서, Socket.io를 활용한 실시간 채팅 기능을 개발하였고, React로 채팅 화면 및 대화 이력 페이지를 구현했습니다.
-- [프로젝트 코드 및 설명](https://github.com/kwongyunghwan/agentServer)
+- [프로젝트 코드](https://github.com/kwongyunghwan/agentServer)
 
 ## 🛠 기술 스택
 
