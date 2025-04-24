@@ -17,7 +17,7 @@
 - **Language:** Node.js
 - **Skill:** Express, MongoDB, Socket.io
 
-#### 프로젝트 상세 설명 (Back-end)
+####Back-end 파트 설명 (Back-end)
 
 - 실시간 채팅을 위한 Socket.io 기반 통신 개발
 - MongoDB를 사용해 채팅 데이터를 저장 및 관리
@@ -28,7 +28,7 @@
 - **Language:** JavaScript
 - **Skill:** React.js, Axios, Recoil
 
-#### 프로젝트 상세 설명 (Front-end)
+#### Front-end 파트 설명 (Front-end)
 
 - React.js로 사용자 친화적인 채팅 UI 개발
 - Recoil을 사용해 상태 관리 및 대화 이력 페이지 구현
@@ -51,7 +51,7 @@
 - **Language:** php
 - **Skill:** HTML, CSS, Jquery, MySQL
 
-#### 프로젝트 상세 설명
+#### 웹 개발 파트 설명
 
 - 관제센터 모니터링 페이지에서 실시간 데이터 확인 기능 구현
 - MySQL을 사용해 센서 데이터를 관리하고, 위험 상황을 판단하는 로직 개발
