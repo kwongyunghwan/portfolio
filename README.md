@@ -17,7 +17,7 @@
 - **Language:** Node.js
 - **Skill:** Express, MongoDB, Socket.io
 
-####Back-end 파트 설명 (Back-end)
+#### Back-end 파트 설명 (Back-end)
 
 - 실시간 채팅을 위한 Socket.io 기반 통신 개발
 - MongoDB를 사용해 채팅 데이터를 저장 및 관리
