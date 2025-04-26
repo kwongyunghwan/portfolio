@@ -10,7 +10,7 @@
 - **나의 역할:** 조장으로서 전반적인 진행상황과 개발 일정 관리 및 팀원 간의 업무조율을 했으며 풀스택 개발자로서 Socket.io를 활용한 실시간 채팅 기능 개발부터 React를 이용한 채팅 화면 및 대화 이력 페이지 구현을 담당했습니다.
 - [프로젝트 코드](https://github.com/kwongyunghwan/agentServer)
 ## SW 구성도
-
+![image](https://github.com/user-attachments/assets/277968b0-f5a7-4660-9460-3eb2fe3592e8)
 
 ## 🛠 기술 스택
 
