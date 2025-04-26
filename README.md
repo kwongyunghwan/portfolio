@@ -12,6 +12,7 @@
 ## SW 구성도
 ![image](https://github.com/user-attachments/assets/277968b0-f5a7-4660-9460-3eb2fe3592e8)
 
+ChatBot으로 인입된 고객이 Cousnel 
 ## 🛠 기술 스택
 
 ### Back-end
@@ -47,7 +48,10 @@
 - **나의 역할:** 웹 개발을 담당하였으며 관제센터 페이지의 Q&A 및 모니터링 페이지를 구현하고, 서버로 전송된 안전모 착용 여부와 온도 측정 데이터를 핸들링했습니다.
 - [프로젝트 코드](https://github.com/kwongyunghwan/safety-helmet)
 - [프로젝트 시연 동영상](https://youtu.be/nuSFLTX1BxY)
-  
+
+## SW 구성도
+![image](https://github.com/user-attachments/assets/5c129232-fd45-425d-ab9c-c42775d0a94a)
+
 ## 🛠 기술 스택
 
 - **Language:** php
