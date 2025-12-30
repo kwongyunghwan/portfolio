@@ -1,15 +1,15 @@
 # 권경환의 포트폴리오
 
-# 1. 영목사 (영화 목록 보여주는 사이트)
+# 1. 영목사(개인 프로젝트)
 ## 프로젝트 개요
-TMDB API를 활용하여 실시간 영화 정보를 제공하는 영화 검색 및 추천 서비스입니다. 사용자는 장르별, OTT별 필터링을 통해 원하는 영화를 쉽게 찾을 수 있으며, Carousel UI로 직관적인 영화 탐색 경험을 제공합니다.
+영목사(영화 목록 보여주는 사이트)는 TMDB API를 활용하여 실시간 영화 정보를 제공하는 영화 검색 및 추천 서비스입니다. 사용자는 장르별, OTT별 필터링을 통해 원하는 영화를 쉽게 찾을 수 있으며, Carousel UI로 직관적인 영화 탐색 경험을 제공합니다.
 
 - **개발기간:** 2024.11.10 ~ 2024.12.28 (약 2개월)
 - **링크:**  [프로젝트 코드 및 상세설명](https://github.com/kwongyunghwan/movie)
 
 ## 실제 화면
 
-<img width="1019" height="887" alt="image" src="https://github.com/user-attachments/assets/c66f86fc-8be1-4a56-a53c-dd97d97199c1" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/c66f86fc-8be1-4a56-a53c-dd97d97199c1" />
 
 ## 기술 스택 및 기능
 
@@ -82,7 +82,7 @@ React Client → Express 서버 → NodeCache 확인
 
 ## 실제 화면
 
-<img width="853" height="605" alt="image" src="https://github.com/user-attachments/assets/76b8c65f-27a4-49c0-b95a-96924d906d3a" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/76b8c65f-27a4-49c0-b95a-96924d906d3a" />
 
 ## 기술 스택 및 기능
 ### Back-end
@@ -153,8 +153,8 @@ Client → API Routes → MongoDB 조회
 - **나의 역할:** 조장으로서 전반적인 진행상황과 개발 일정 관리 및 팀원 간의 업무조율을 했으며 풀스택 개발자로서 Socket.io를 활용한 실시간 채팅 기능 개발부터 React를 이용한 채팅 화면 및 대화 이력 페이지 구현을 담당했습니다.
 - [프로젝트 코드 및 상세설명](https://github.com/kwongyunghwan/agentServer)
 
-## 대표화면
-<img width="1510" height="696" alt="image" src="https://github.com/user-attachments/assets/dad54a82-2a86-440f-93a9-618db6f35c8d" />
+## 실제 화면
+<img width="1000" height="396" alt="image" src="https://github.com/user-attachments/assets/dad54a82-2a86-440f-93a9-618db6f35c8d" />
 
 ## SW 구성도
 ![image](https://github.com/user-attachments/assets/277968b0-f5a7-4660-9460-3eb2fe3592e8)
@@ -222,11 +222,11 @@ Client → API Routes → MongoDB 조회
   - 접속 상태 표시 (온라인/오프라인)
     
 ---
-# 4. 안전모야 부탁해 프로젝트
+# 4. 안전모야 부탁해(Oh hat) 프로젝트
 
 ## 프로젝트 개요
 
-'안전모야 부탁해' 프로젝트는 인부들의 안전을 위해 안전모에 부착된 **센서 데이터를 서버로 전송**하여, 관제센터 페이지에서 **실시간으로 안전모 착용 여부와 온도 측정을 확인**할 수 있도록 개발된 프로젝트입니다. 이를 통해 위험 상황 판단 및 즉각적인 대응을 위한 Q&A 기능을 지원합니다.
+'안전모야 부탁해(Oh hat)' 프로젝트는 인부들의 안전을 위해 안전모에 부착된 **센서 데이터를 서버로 전송**하여, 관제센터 페이지에서 **실시간으로 안전모 착용 여부와 온도 측정을 확인**할 수 있도록 개발된 프로젝트입니다. 이를 통해 위험 상황 판단 및 즉각적인 대응을 위한 Q&A 기능을 지원합니다.
 
 - **개발기간:** 2020.05.25 - 2020.10.31
 - **프로젝트 인원** 백엔드 1명, 웹개발 1명, 앱개발 1명, IOT개발 2명(총 6명)
@@ -237,8 +237,8 @@ Client → API Routes → MongoDB 조회
   - MySQL 쿼리 작성
 - **링크:**  [프로젝트 코드](https://github.com/kwongyunghwan/safety-helmet)
 
-## 실제화면
-<img width="1761" height="911" alt="image" src="https://github.com/user-attachments/assets/59594588-734e-46f2-8f2b-d6b37a267ac6" />
+## 실제 화면
+<img width="1261" height="611" alt="image" src="https://github.com/user-attachments/assets/59594588-734e-46f2-8f2b-d6b37a267ac6" />
 
 ## SW 구성도
 ![image](https://github.com/user-attachments/assets/5c129232-fd45-425d-ab9c-c42775d0a94a)
@@ -295,7 +295,7 @@ YOLOv5 모델을 활용하여 사람과 동물 등 다양한 데이터셋을 딥
 - **개발기간**: 2020.11.01 ~ 2020.12.12(1.5개월)
 - **링크:** [프로젝트 코드](https://colab.research.google.com/drive/1qtoBiMIDeLlIX9gqT-2c0GO9JZ-a-F-6?usp=sharing#scrollTo=LjWYlvVQmxL8)
 
-## 실제화면
+## 실제 화면
 <img width="588" height="403" alt="image" src="https://github.com/user-attachments/assets/ece08013-8dea-4bc0-a13c-dc055d60542a" />
 
 ## 기술 스택
