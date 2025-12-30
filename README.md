@@ -91,11 +91,10 @@ React Client → Express 서버 → NodeCache 확인
   
 **주요 기능 및 구현**
 
-- **Next.js API Routes RESTful API 개발**
+- **API Routes API 개발**
   - RESTful API 설계 (GET, POST, PATCH, DELETE)
   - FormData를 이용한 이미지 파일 처리
   - 북마크 코드 기반 데이터 조회/저장/수정/삭제
-  - 에러 핸들링 및 일관된 응답 형식
 
 - **MongoDB 데이터베이스 관리**
   - 북마크 데이터 스키마 설계
@@ -119,15 +118,12 @@ Client → API Routes → MongoDB 조회
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **주요 기능 및 구현**
-- **고유 북마크 코드 생성 및 관리**
-  - crypto.randomBytes로 8자리 랜덤 코드 생성
-  - Redux Toolkit으로 북마크 코드 전역 상태 관리
-  - 새로고침 시에도 상태 유지 (Redux Persist)
+- **고유 북마크 코드 생성**
+  - crypto로 8자리 랜덤 코드 생성
 
 - **이미지 업로드 및 미리보기**
   - 파일 선택 시 이미지 미리보기
   - FormData로 이미지 파일 전송
-  - 업로드 성공 후 카드에 이미지 표시
     
 - **컴포넌트 기반 설계**
   - 북마크 카드 컴포넌트
@@ -233,7 +229,7 @@ Client → API Routes → MongoDB 조회
 
 - **개발기간:** 2020.05.25 - 2020.10.31
 - **프로젝트 인원** 백엔드 1명, 웹개발 1명, 앱개발 1명, IOT개발 2명(총 6명)
-- **나의 역할:** 웹 개발을 담당하였으며 아래 업무를 구현했습니다.
+- **나의 역할:** 웹 개발을 담당하였으며 아래 기능을 구현했습니다.
   - 관제센터 모니터링 페이지 구현
   - 실시간 센서 데이터 표시 (안전모 착용 여부, 온도)
   - Q&A 시스템 개발 (질문/답변 CRUD)
@@ -245,6 +241,7 @@ Client → API Routes → MongoDB 조회
 
 ## SW 구성도
 ![image](https://github.com/user-attachments/assets/5c129232-fd45-425d-ab9c-c42775d0a94a)
+
 **시스템 흐름:**
 1. IoT 센서가 안전모 착용 여부 및 온도 데이터 수집
 2. 센서 데이터가 서버로 전송
@@ -261,9 +258,7 @@ Client → API Routes → MongoDB 조회
   - IoT 센서 데이터 수신 및 처리
   - MySQL 데이터베이스 연동
   - Q&A 시스템 CRUD API
-
-- **MySQL 데이터베이스 관리**
-  - 센서 데이터 테이블 설계
+서 데이터 테이블 설계
   - Q&A 테이블 설계
   - 데이터 저장 및 조회 쿼리 작성
 
@@ -272,7 +267,7 @@ Client → API Routes → MongoDB 조회
   - 온도 임계값 초과 감지
   - 알림 트리거 구현
  
-### Front-end  
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
@@ -293,6 +288,8 @@ Client → API Routes → MongoDB 조회
 - **반응형 대시보드**
   - HTML/CSS 레이아웃
   - jQuery를 통한 동적 UI 업데이트
+    
+---
 
 # 5. 실시간 마스크 착용 확인 (개인 프로젝트)
 
