@@ -154,7 +154,7 @@ Client → API Routes → MongoDB 조회
 - [프로젝트 코드 및 상세설명](https://github.com/kwongyunghwan/agentServer)
 
 ## 실제 화면
-<img width="1000" height="396" alt="image" src="https://github.com/user-attachments/assets/dad54a82-2a86-440f-93a9-618db6f35c8d" />
+<img width="1510" height="696" alt="image" src="https://github.com/user-attachments/assets/dad54a82-2a86-440f-93a9-618db6f35c8d" />
 
 ## SW 구성도
 ![image](https://github.com/user-attachments/assets/277968b0-f5a7-4660-9460-3eb2fe3592e8)
