@@ -220,7 +220,8 @@ Client → API Routes → MongoDB 조회
   - 상담원 목록 관리
   - 권한 변경 (admin/agent/reader)
   - 접속 상태 표시 (온라인/오프라인)
-
+    
+---
 # 4. 안전모야 부탁해 프로젝트
 
 ## 프로젝트 개요
