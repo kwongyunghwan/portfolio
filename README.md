@@ -243,12 +243,6 @@ Client → API Routes → MongoDB 조회
 ## SW 구성도
 ![image](https://github.com/user-attachments/assets/5c129232-fd45-425d-ab9c-c42775d0a94a)
 
-**시스템 흐름:**
-1. IoT 센서가 안전모 착용 여부 및 온도 데이터 수집
-2. 센서 데이터가 서버로 전송
-3. PHP 서버가 데이터 처리 및 MySQL에 저장
-4. 관제센터 페이지에서 실시간 데이터 표시
-5. 위험 상황 발생 시 알림 및 Q&A를 통한 대응
 ## 기술 스택 및 기능
 ### Back-end
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
